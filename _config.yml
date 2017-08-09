@@ -1,0 +1,66 @@
+url: "https://KUROC0N.github.io"
+baseurl: ""
+
+# Site settings
+title: KUROC0N
+email: kurocon@nototakuthon.com
+description: "KUROCON is an exclusive event hosted by twitter user Kurotsuki"
+
+
+# Team names, titles and social links
+people:
+- name: Kurotsuki
+  pic: 1
+  position: Convention Director
+  social:
+    - title: twitter
+      url: https://twitter.com/Kurotsuki
+    - title: twitter
+      url: https://twitter.com/Honky_Rider/status/882483596103008257
+    - title: instagram
+      url: https://www.instagram.com/kurotsukih/
+
+- name: 黒月
+  pic: 2
+  position: Marketing Director
+  social:
+    - title: twitter
+      url: https://twitter.com/Kurotsuki
+    - title: instagram
+      url: https://twitter.com/Honky_Rider/status/882483596103008257
+    - title: instagram
+      url: https://www.instagram.com/kurotsukih/
+
+- name: Chris
+  pic: 3
+  position: Big Gundam Nerd
+  social:
+    - title: twitter
+      url: https://twitter.com/Kurotsuki
+    - title: facebook
+      url: https://www.facebook.com/kurotsukih
+    - title: instagram
+      url: https://www.instagram.com/kurotsukih/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/Kurotsuki
+  - title: facebook
+    url: https://www.facebook.com/kurotsukih
+  - title: instagram
+    url: https://www.instagram.com/kurotsukih/
+  - title: twitter
+    url: https://twitter.com/_momomelo
+  - title: github
+    url: http://github.com/momomelo
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 201, Viger Avenue West
+  - line: Montreal (Quebec) Canada, H2Z 1H2
+
+# Build settings
+markdown: kramdown
+permalink: pretty
